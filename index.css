@@ -1,0 +1,45 @@
+body {
+    background-image: url("bac.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: red;
+    font-size: 60px;
+}
+
+h3 {
+    color: blue;
+    font-size: 10px;
+}
+
+#c {
+
+    text-align: right;
+    color: white
+}
+
+button {
+    background-color: transparent;
+}
+
+.but {
+    width: 45px;
+    height: 45px;
+
+}
+
+.b {
+    background-color: white;
+
+}
+
+#content {
+
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+    margin-top: 50px;
+
+}
